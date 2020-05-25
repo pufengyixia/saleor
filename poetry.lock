@@ -918,7 +918,7 @@ description = "Graphene Django integration"
 name = "graphene-django"
 optional = false
 python-versions = "*"
-version = "2.10.0"
+version = "2.10.1"
 
 [package.dependencies]
 Django = ">=1.11"
@@ -2169,7 +2169,7 @@ idna = ">=2.0"
 multidict = ">=4.0"
 
 [metadata]
-content-hash = "e60402f650659e7db4fe167365d324090756c28c3c9c17723437ea7c30f1078c"
+content-hash = "916c4fd921169519117c8da4e69bb2b258669077c26f2bb8b14c1cf989f7cbb3"
 python-versions = "~3.8"
 
 [metadata.files]
@@ -2511,8 +2511,8 @@ graphene = [
     {file = "graphene-2.1.8.tar.gz", hash = "sha256:2cbe6d4ef15cfc7b7805e0760a0e5b80747161ce1b0f990dfdc0d2cf497c12f9"},
 ]
 graphene-django = [
-    {file = "graphene-django-2.10.0.tar.gz", hash = "sha256:ffb9a52470d17e22c7330f29d23f35c581d4c1f3929f16411c23f0ed9d0b8a65"},
-    {file = "graphene_django-2.10.0-py2.py3-none-any.whl", hash = "sha256:a863c5113cb1cc7435fb94ba294e17e82f8f67bd01c1bed617b4b33aa1bf5a43"},
+    {file = "graphene-django-2.10.1.tar.gz", hash = "sha256:4b38812983d360560ce7e783756937b3793c9d1545e8b3881fd1af21c091a726"},
+    {file = "graphene_django-2.10.1-py2.py3-none-any.whl", hash = "sha256:1df67ac665282b45be816516e770d67cf16134331299293fd9a49cd49de05dd4"},
 ]
 graphene-federation = [
     {file = "graphene-federation-0.1.0.tar.gz", hash = "sha256:e44e8e354d0c8eeb03547d5c262d01c868d4ea7d1458512c994176eed80fd2bf"},
